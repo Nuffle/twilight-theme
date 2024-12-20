@@ -1,0 +1,33 @@
+{
+  "name": "twilight-theme",
+  "displayName": "Twilight Theme",
+  "description": "Twilight Theme from DEV C++",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nuffle/twilight-theme.git"
+  },
+  "keywords": [
+    "twilight",
+    "c++",
+    "dark-blue",
+    "theme",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Twilight Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/twilight-color-theme.json"
+      }
+    ]
+  }
+}
