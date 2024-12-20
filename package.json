@@ -1,7 +1,8 @@
 {
   "name": "twilight-theme",
-  "displayName": "Twilight Theme",
+  "displayName": "TwilighTheme",
   "description": "Twilight Theme from DEV C++",
+  "publisher": "arthur-fortunato",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
