@@ -1,9 +1,9 @@
 {
-  "name": "twilight-theme",
-  "displayName": "TwilighTheme",
-  "description": "Twilight Theme from DEV C++",
+  "name": "glacia-theme",
+  "displayName": "Glacia Theme",
+  "description": "The Glacia theme combines elegance and modernity, bringing shades of light blue and white for a soft and clear visual experience.",
   "publisher": "arthur-fortunato",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.96.0"
   },
@@ -18,14 +18,16 @@
   "keywords": [
     "twilight",
     "c++",
+    "python",
     "dark-blue",
     "theme",
-    "dark"
+    "dark",
+    "blue"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Twilight Theme",
+        "label": "Glacia Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/twilight-color-theme.json"
       }
